@@ -3,8 +3,7 @@
  
  <h2>Hi, I'm Conrad, an <a href="https://linkedin.com/in/Josh">IT Professional</a>🎗️</h2>
      
-     <p align="center">
-<img src="https://i.imgur.com/qxdhU9F.jpg" alt="bridge"/></p>
+<p align="center"><img src="https://i.imgur.com/qxdhU9F.jpg" alt="bridge"/></p>
 
 
 

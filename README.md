@@ -11,7 +11,7 @@
 
  
 
-<h3>👨‍💻 Information Technology Projects:</h3>
+<h1>🖱️ 🖱️ ⌨️ Information Technology Projects:⌨️ 🖱️ 🖱️</h1>
 
  <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)

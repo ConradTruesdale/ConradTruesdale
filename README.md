@@ -11,8 +11,6 @@
 
  
 
-
-
 <h3>👨‍💻 Information Technology Projects:</h3>
 
  <b>osTicket (Help Desk Ticketing System)</b>
